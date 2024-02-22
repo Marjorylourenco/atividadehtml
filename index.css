@@ -1,0 +1,62 @@
+
+
+
+
+.header {
+    
+    background-image:url("logodefundojpg.jpg") ;
+    padding: 35px;
+    text-align: center;
+    
+  
+  
+
+
+body{ 
+   
+    background-color: rgb(204, 214, 214);
+  
+}
+
+h1{
+    color: 	#6495ED;
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+}
+h2{
+
+    color: black;
+    text-align: center;
+}
+
+
+
+img{
+
+    
+    height: 500px; width: 500px;
+   
+    
+   
+   
+
+ 
+   
+    
+}
+
+.rodape {
+    
+     background-color: #6495ED ;
+    padding: 45px;
+    text-align:center;
+    
+   
+     
+
+    
+    
+   
+}
+  
